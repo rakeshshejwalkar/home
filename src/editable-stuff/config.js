@@ -25,7 +25,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/rakeshshejwalkar/",
+      url: "https://www.linkedin.com/in/rakesh-shejwalkar/",
     },
     {
       image: "fa-twitter",
