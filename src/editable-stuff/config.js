@@ -9,27 +9,23 @@ const mainBody = {
   firstName: "Rakesh",
   middleName: "",
   lastName: "Shejwalkar",
-  message: " My passion lies in the use of Technology for delivering dynamic solutions/answers to usual yet painful problems leveraging common interaction platforms of web application, pwas, standalone apps or as part of an existing app ecosystem. My domain and business expertise lies in the field of Finance and financial engineering. My mission remains to bring efficieny in Personal Finance space intrigues me for bringing efficiency in this space. Continuing Education is my hobby.  ",
+  message: "Driving Financial Vehicle, Fuelled by Technology",
   icons: [
     {
       image: "fa-github",
       url: "https://github.com/rakeshshejwalkar",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/rakeshshejwalkar",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/rakeshshejwalkar/",
-    },
+        //{
+      //image: "fa-instagram",
+      //url: "https://www.instagram.com/rakeshshejwalkar/",
+    //},
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/rakesh-shejwalkar/",
     },
     {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/rakeshshejwalkar/",
+      image: "fa-facebook",
+      url: "https://www.facebook.com/rakeshshejwalkar",
     },
   ],
 };
@@ -126,7 +122,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "While I am happy in my job, I don't mind an interesting discussion. If you have any questions, or if you just want to say hi, please feel free to email me at",
+    "If you are interested in any discussion, have any questions, or if you just want to say hi, please feel free to email me at",
   email: "rakesh.shej@gmail.com",
 };
 
