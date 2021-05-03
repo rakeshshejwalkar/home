@@ -4,9 +4,9 @@ import {
   navBar,
   mainBody,
   about,
+  skills,
   repos,
   leadership,
-  skills,
   getInTouch,
   experiences
 } from "./editable-stuff/config.js";
