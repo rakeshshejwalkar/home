@@ -115,7 +115,7 @@ const skills = {
     { name: "TeamBuilding", value: 85 },
     { name: "Creativity", value: 95 },
   ],
-  DomainKnowledge: [
+  domainKnowledge: [
     { name: "OTC Derivatives", value: 90 },
     { name: "Equities", value: 90 },
     { name: "European Derivative Markyte", value: 85 },
