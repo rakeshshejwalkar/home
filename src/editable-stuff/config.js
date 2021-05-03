@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Rakesh",
   middleName: "",
   lastName: "Shejwalkar",
-  message: " Passionate about technology & finance; specially technology in finance. ",
+  message: " My passion lies in the use of Technology for delivering dynamic solutions/answers to usual yet painful problems leveraging common interaction platforms of web application, pwas, standalone apps or as part of an existing app ecosystem. My domain and business expertise lies in the field of Finance and financial engineering. My mission remains to bring efficieny in Personal Finance space intrigues me for bringing efficiency in this space. Continuing Education is my hobby.  ",
   icons: [
     {
       image: "fa-github",
@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/rakeshshejwalkar.jpg"),
   imageSize: 375,
   message:
-    "My name is Rakesh . I’m a graduate of 2007 from Indian Institute of Technology Kharagpur with a degree in Industial Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of financial engineering and wellbeing. In my free time I like working on open source projects.",
+    "My name is Rakesh Shejwalkar. I am an engineering B.Tech (IIT Kharagpur) by academic background. I am currently working as an Executive Director in global markets of a multinational investment bank. My job life has been a mix of Financial Products’ experience (front to back life cycle for Derivatives) and experience in delivering huge volume based business through various B2C to B2B platforms. Product Portfolio Management has been a key role. My passion lies in the use of Technology for delivering dynamic solutions/answers to usual yet painful problems leveraging common interactive platforms like web application, pwas, standalone apps or as embedded solution in an existing app ecosystem. My mission has been to bring efficiency in Personal Finance space. Continuing Education is my hobby and motto. Of late I have ventured into various kind of content management and design applications. This webpage is an output of the same curiosity.",
   resume: "https://drive.google.com/file/d/1CuymnyEyhswFbckv1QFSPSwm2UYm11ih/view?usp=sharing",
 };
 
@@ -73,7 +73,7 @@ const repos = {
 
 // Leadership SECTION
 const leadership = {
-  show: false,
+  show: true,
   heading: "Leadership",
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
