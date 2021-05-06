@@ -72,17 +72,17 @@ const leadership = {
   show: true,
   heading: "Leadership",
   message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
+    " Be it sport or any walk of life, leading by example is important. I belive n learning, doing and then leading. Of course great leadership also means being the fulcrum on which rigid beams are appropriately pivoted.",
   images: [
     { 
-      img: require("../editable-stuff/rakeshshejwalkar.jpg"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+      img: require("../editable-stuff/Bansal_flipkart.jfif"), 
+      label: "Founders_Flipkart", 
+      paragraph: "Create Saleble product and ecosystem." 
     },
     { 
       img: require("../editable-stuff/rakeshshejwalkar.jpg"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+      label: "This is me in making", 
+      paragraph: "Follow greate leaders but leave your own legacy" 
     },
   ],
   imageSize: {
