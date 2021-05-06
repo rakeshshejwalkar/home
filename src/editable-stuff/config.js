@@ -72,12 +72,22 @@ const leadership = {
   show: true,
   heading: "Leadership",
   message:
-    " Be it sport or any walk of life, leading by example is important. I belive n learning, doing and then leading. Of course great leadership also means being the fulcrum on which rigid beams are appropriately pivoted.",
+    " Be it sport or any walk of life, leading by example is important. I believe in learning, doing and then leading. Of course great leadership also means being the fulcrum on which rigid beams are appropriately pivoted to deliver great output. I believe in identifying, nurturing new talent for harnessing greater success in dynamically evolving technology and product space. ",
   images: [
+    { 
+      img: require("../editable-stuff/ratan_tata.jfif"), 
+      label: "One and only Mr. Ratan Tata", 
+      paragraph: "Believe in making your decison right" 
+    },
     { 
       img: require("../editable-stuff/Bansal_flipkart.jfif"), 
       label: "Founders_Flipkart", 
-      paragraph: "Create Saleble product and ecosystem." 
+      paragraph: "Create Saleble product, find the usp (pay at delivery in India)." 
+    },
+    { 
+      img: require("../editable-stuff/Kunal_shah.jfif"), 
+      label: "Mr Cred", 
+      paragraph: "Guru of Demand Creation through Playful Product Gimmicks and unique marketing." 
     },
     { 
       img: require("../editable-stuff/rakeshshejwalkar.jpg"), 
