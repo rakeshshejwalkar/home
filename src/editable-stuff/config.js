@@ -82,7 +82,7 @@ const leadership = {
     { 
       img: require("../editable-stuff/rakeshshejwalkar.jpg"), 
       label: "This is me in making", 
-      paragraph: "Follow greate leaders but leave your own legacy" 
+      paragraph: "Follow great leaders but leave your own legacy" 
     },
   ],
   imageSize: {
