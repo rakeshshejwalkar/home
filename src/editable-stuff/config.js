@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/rakeshshejwalkar.jpg"),
   imageSize: 375,
   message:
-    "My name is Rakesh Shejwalkar. I am an engineering B.Tech (IIT Kharagpur) by academic background. I am currently working as an Executive Director in global markets of a multinational investment bank. My job life has been a mix of Financial Products’ experience (front to back life cycle for Derivatives) and experience in delivering huge volume based business through various B2C to B2B platforms. Product Portfolio Management has been a key role. My passion lies in the use of Technology for delivering dynamic solutions/answers to usual yet painful problems leveraging common interactive platforms like web application, pwas, standalone apps or as embedded solution in an existing app ecosystem. My mission has been to bring efficiency in Personal Finance space. Continuing Education is my hobby and motto. Of late I have ventured into various kind of content management and design applications. This webpage is an output of the same curiosity.",
+    "Rakesh Shejwalkar is an accomplished Product Leader with a strong foundation in engineering (B.Tech, IIT Kharagpur) and extensive experience in global financial markets. Currently serving as an Executive Director at a multinational investment bank, he specializes in financial products, overseeing the end-to-end lifecycle of derivatives and managing high-volume business operations across B2C and B2B platforms.",
   resume: "https://drive.google.com/file/d/1CuymnyEyhswFbckv1QFSPSwm2UYm11ih/view?usp=sharing",
 };
 
